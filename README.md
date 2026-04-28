@@ -31,6 +31,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 - [Titan](https://github.com/Denton24646/Titan) - Based on python, flask, postgres.
 - [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
 
+
 ## Signals
 
 - [Peregrine](https://github.com/wardbradt/peregrine) - Arbitrage on python.
@@ -57,6 +58,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 - [ccxt-rest](https://github.com/franz-see/ccxt-rest) - Unified REST API on #javascript
 - [ccxt-microservice](https://github.com/xeno14/ccxt-microservice) - Unified REST API on #python
 - [ccxt-server](https://github.com/mpakus/ccxt-server) - #javascript
+- [ChartScout](https://chartscout.io) - Free crypto chart pattern scanner with automated detection for 20+ patterns, real-time alerts, and multi-exchange support.
 
 ## AI
 
