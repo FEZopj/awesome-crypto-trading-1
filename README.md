@@ -31,6 +31,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 - [Titan](https://github.com/Denton24646/Titan) - Based on python, flask, postgres.
 - [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
 - [TrendRider](https://trendrider.net) - Multi-timeframe algo trading bot for Bybit with 67.9% win rate, dynamic position sizing, 15+ altcoins. #python, #freqtrade, #bybit
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot + TradingView webhook executor. 70.9% accuracy, 6 exchanges, pump scanner, open source MIT.
 
 
 ## Signals
@@ -60,6 +61,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 - [ccxt-microservice](https://github.com/xeno14/ccxt-microservice) - Unified REST API on #python
 - [ccxt-server](https://github.com/mpakus/ccxt-server) - #javascript
 - [ChartScout](https://chartscout.io) - Free crypto chart pattern scanner with automated detection for 20+ patterns, real-time alerts, and multi-exchange support.
+- [Crypto Pump Scanner](https://github.com/stefanoviana/crypto-pump-scanner) - Real-time pump detection, 500+ pairs.
 
 ## AI
 
